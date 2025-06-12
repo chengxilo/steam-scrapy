@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is a web scraper that collects data from the Stream store. You can use the app id to get the information
+This project is a web scraper that collects data from the Steam store. You can use the app id to get the information
 you
 want, such as the name of the game, the price, the discounted price, reviews, etc.
 
